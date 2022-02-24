@@ -1,0 +1,20 @@
+{
+  "name": "8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "csv": "^5.5.0",
+    "delay": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "lodash": "^4.17.21",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
