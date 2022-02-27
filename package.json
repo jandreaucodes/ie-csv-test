@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "peng <robertjustinianpeng@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",
@@ -16,5 +16,6 @@
     "lodash": "^4.17.21",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.9"
-  }
+  },
+  "repository": "https://github.com/jandreaucodes/ie-csv-test.git"
 }
